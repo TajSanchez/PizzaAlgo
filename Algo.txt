@@ -1,0 +1,23 @@
+Step 1: Talk To cashier
+Step 2: Order Pizza
+Step 3: Add Pepperoni
+Step 4: Add Sausage
+Step 5: Add Olives
+Step 6: Add Tomato Sauce
+Step 7: Add Extra Cheese
+Step 8: Request Brooklyn Style Crust
+Step 9: Add Garlic Butter
+Step 10: Add Basil & Oregeno
+Step 11: Add A Side Of Buffalo Wings
+Step 12: Request Extra Buffalo Sauce
+Step 13: Request Side Of Ranch Dressing
+Step 14: Order Drink
+Step 15: Request A Root Beer
+Step 16: Pay For Food
+Step 17: Leave With Food
+Step 18: Drive Home
+Step 19: Get Home & Enter Kitchen
+Step 20: Set Plates & Cups
+Step 21: Put The Food On The Plates
+Step 22: Pour Drinks In The Cups
+Step 23: Enjoy Your Food! 
