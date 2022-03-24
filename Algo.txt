@@ -21,3 +21,9 @@ Step 20: Set Plates & Cups
 Step 21: Put The Food On The Plates
 Step 22: Pour Drinks In The Cups
 Step 23: Enjoy Your Food! 
+24a) IF We pay over the phone then provide payment info 
+-Wait for delivery
+-Tip the driver
+24b) IF we are going to pay at the restuarant
+-Give payment to cashier
+-Wait for pizza
